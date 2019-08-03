@@ -82,8 +82,10 @@ $(document).on("click", ".result", function() {
 //new giphy search
 
 $("#add-new-button").on("click", function() {
-	var newSearch = $("#new-graphy-input").val();
-	topiccs.push(v);
+	event.preventDefault();
+	// console.log('ghhghg');
+	var newSearch = $("#new-giphy-input").val();
+	// console.log(newSearch);
 	topics.push(newSearch);
 	var button = $("<button>").text(newSearch);
 	button.attr("data-graphy", newSearch);

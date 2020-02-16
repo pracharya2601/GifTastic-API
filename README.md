@@ -10,6 +10,8 @@
 <p>Each gif can be animated by clicking on the picture. They will stop if you click on them a 2nd time.</p>
 
 <p>Have fun!</p>
+<hr>
+Click to see the app: https://pracharya2601.github.io/GifTastic-API/?
 
 <h2>Technology used:</h2>
 <ul>
@@ -21,5 +23,9 @@
 <li>API</li>
 </ul>
 
-<hr>
-Click to see the app: https://pracharya2601.github.io/GifTastic-API/?
+<div align="center">
+    <img src="assets/Image/b.png" width="500px"</img> 
+</div>
+<div align="center">
+    <img src="assets/Image/a.png" width="500px"</img> 
+</div>
